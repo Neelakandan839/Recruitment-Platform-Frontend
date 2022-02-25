@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image:url('https://blog.coingecko.com/wp-content/uploads/2020/09/background_work-scaled.jpeg')
 }
 
 code {
