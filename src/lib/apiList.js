@@ -1,4 +1,4 @@
-export const server = "https://dream-jobs-api.herokuapp.com";
+export const server = "https://recruitment-platform-backend.onrender.com";
 
 const apiList = {
   login: `${server}/auth/login`,
