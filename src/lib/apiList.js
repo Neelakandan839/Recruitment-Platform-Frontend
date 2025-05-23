@@ -1,4 +1,4 @@
-export const server = "https://recruitment-platform-backend.onrender.com";
+export const server = "https://recruitment-platform-backend.vercel.app";
 
 const apiList = {
   login: `${server}/auth/login`,
